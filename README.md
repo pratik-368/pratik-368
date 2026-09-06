@@ -1,106 +1,165 @@
-<h1 align="center">Hi there, I'm Pratik Prajapati 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Student+at+IIIT+Jabalpur+%F0%9F%8E%93;Building+Full-Stack+%26+AI%2FML+Projects+%F0%9F%A4%96;Competitive+Programmer+%E2%9A%A1%EF%B8%8F;Fine-tuned+a+Vision+Transformer+for+Snake+ID+%F0%9F%90%8D" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9146FF&height=250&section=header&text=PRATIK%20PRAJAPATI&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CSE%20@%20IIIT%20Jabalpur%20|%20Full-Stack%20+%20AI/ML%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+whoami;pratik-368+%E2%86%92+student%2C+coder%2C+chaos+debugger;%3E+sudo+make+me+a+sandwich;Permission+denied+%F0%9F%98%88;%3E+git+commit+-m+%22it+works+on+my+machine%22" alt="terminal typing" />
 
----
+<br/>
 
-### 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=pratik-368&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/pratik-368?label=FOLLOWERS&style=for-the-badge&color=9146FF)
+![Streak](https://img.shields.io/badge/CURRENT%20MOOD-debugging%20at%203am-red?style=for-the-badge&logo=nightmare)
 
-- 🎓 B.Tech in **Computer Science** at **IIIT Jabalpur** (CGPA: 8.9)
-- 💻 I build full-stack web apps and dabble in **AI/ML & Computer Vision**
-- 🐍 Fine-tuned a **DINOv2 Vision Transformer** to classify 48 Indian snake species (95% val. accuracy!) — [SerpentAI](https://github.com/raunakprajapatii/SerpentAI)
-- 🏆 Secured **6th place at HackOrbit 2025** for *Urban Eye*, a civic-issue reporting app
-- 📈 Active competitive programmer on **CodeChef, Codeforces & LeetCode** — 250+ problems solved combined
-- 🌱 Always learning — one bug at a time
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,mongodb,nodejs,react,express,flask,spring,git,github,vscode" />
-</p>
+## ⚡ /dev/pratik
 
----
+```python
+class Pratik:
+    def __init__(self):
+        self.role         = "CSE Student @ IIIT Jabalpur"
+        self.cgpa         = 8.9
+        self.stack        = ["C++", "Java", "Python", "JavaScript", "TypeScript"]
+        self.currently    = "fine-tuning ViTs to identify snakes 🐍"
+        self.weakness     = "closing 47 chrome tabs, 0 bookmarked"
+        self.superpower   = "turning coffee into semi-working code"
 
-### 🌟 Featured Projects
+    def status(self):
+        return "🟢 online and probably debugging something"
 
-| Project | Description | Tech |
-|---|---|---|
-| 🐍 [SerpentAI – Snake Species Classifier](https://github.com/raunakprajapatii/SerpentAI) | Fine-tuned DINOv2 ViT-L/14 to classify 48 Indian snake species using SnakeCLEF 2022, hitting 95% validation accuracy with a two-phase freeze–unfreeze training strategy | PyTorch, timm, Vision Transformers, AMP |
-| 🧳 [WanderWise](https://github.com/pratik-368) | Smart travel planner generating personalized itineraries based on budget & travel style | Node.js, Express, React (Vite), MySQL |
-| 🏙️ [Urban Eye](https://github.com/pratik-368) | Civic issue management app with AI-based image analysis (Gemini API) — built at HackOrbit 2025, ranked 6th | Python, Flask, Flutter |
-| ⚔️ [ProdHack](https://github.com/pratik-368/ProdHack) | Productivity app with a competitive battle system to boost accountability between users | MongoDB, Express, React (Vite), Node.js |
+me = Pratik()
+print(me.status())
+```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🏆 Competitive Programming
+## 🎮 Achievement Unlocked
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-Highest%20Rating%201469-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-Highest%20Rating%201014-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-🥈 Global Rank <b>857</b> in CodeChef Starters 208 (Div 3)
-</p>
+| 🏆 | Achievement |
+|---|---|
+| 🥷 | **HackOrbit 2025** — 6th place with *Urban Eye* (civic-issue reporting + AI) |
+| 🎯 | **CodeChef Starters 208** — Global Rank **857** |
+| 🐍 | **95% accuracy** fine-tuning DINOv2 ViT to classify 48 Indian snake species — [SerpentAI](https://github.com/raunakprajapatii/SerpentAI) |
+| 🔟 | **Top 10–12 teams** in intra-college hackathon *Can You Hack It* |
+| 💯 | **250+ problems** solved across CodeChef, Codeforces & LeetCode |
 
----
+</div>
 
-### 📊 GitHub Stats
+## 🛠️ Weapons of Choice
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-368&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,mongodb,nodejs,react,express,flask,spring,git,github,vscode&theme=dark" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-368&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratik-368&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+```
+┌─────────────────────────────────────────────┐
+│  > cat /proc/pratik/competitive_programming   │
+├─────────────────────────────────────────────┤
+│  CodeChef    ▰▰▰▰▰▰▰▱▱▱  1469 (highest)      │
+│  Codeforces  ▰▰▰▰▰▱▱▱▱▱  1014 (highest)      │
+│  LeetCode    ▰▰▰▰▰▰▰▰▱▱  100+ solved         │
+└─────────────────────────────────────────────┘
+```
 
-### 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-368&theme=tokyo-night&hide_border=true" />
-</p>
+## 🚀 Projects That Escaped My Laptop
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🐍 Contribution Snake
+### 🐍 [SerpentAI](https://github.com/raunakprajapatii/SerpentAI)
+Fine-tuned a **DINOv2 ViT-L/14** transformer to classify 48 Indian snake species. Two-phase freeze-unfreeze training, mixed precision, 95% validation accuracy. Basically taught a robot to be a herpetologist.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratik-368/pratik-368/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+`PyTorch` `timm` `Vision Transformers` `AMP`
 
-> ℹ️ To activate this, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to a repo named `pratik-368` — it auto-generates that image daily.
+</td>
+<td width="50%">
 
----
+### 🏙️ Urban Eye
+AI-powered civic issue reporter — spot a pothole, snap a pic, Gemini API figures out what it is. Ranked **6th at HackOrbit 2025**.
 
-### 📫 Connect with Me
+`Python` `Flask` `Flutter` `Gemini API`
 
-<p align="center">
-  <a href="https://github.com/pratik-368"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pratikprajapati368@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratik-368&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
-</p>
+### 🧳 WanderWise
+Smart travel planner that builds personalized itineraries around your budget and vibe, so you stop doom-scrolling travel blogs at 2am.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+`Node.js` `Express` `React (Vite)` `MySQL`
+
+</td>
+<td width="50%">
+
+### ⚔️ ProdHack
+A productivity app that turns getting things done into a competitive battle against your friends. Accountability, but make it a boss fight.
+
+`MongoDB` `Express` `React (Vite)` `Node.js`
+
+</td>
+</tr>
+</table>
+
+## 📊 The Receipts
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-368&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-368&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=FF3D3D&currStreakLabel=39FF14"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratik-368&theme=algolia&no-frame=true&row=1&column=6"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-368&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff"/>
+</div>
+
+## 💬 Random Wisdom (refreshes on every profile visit)
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+## 📟 Terminal Sign-off
+
+```bash
+pratik@iiit-jabalpur:~$ echo "Thanks for stopping by!"
+Thanks for stopping by!
+pratik@iiit-jabalpur:~$ connect --with=me
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik-368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-prajapati-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikprajapati368@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pratik_368)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pratikprajapati368)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/pratik368)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9146FF,100:36BCF7&height=150&section=footer"/>
+
+<div align="center">
+<i>⭐️ If any of this made you smile, throw a star at one of my repos</i>
+</div>
