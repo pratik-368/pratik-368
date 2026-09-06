@@ -142,8 +142,6 @@ A productivity app that turns getting things done into a competitive battle agai
 </picture>
 </div>
 
-> ℹ️ This needs the **Platane/snk** GitHub Action set up in your `pratik-368` repo (the snake.yml workflow we set up earlier) to generate the SVGs on the `output` branch.
-
 ## 💬 Random Wisdom (refreshes on every profile visit)
 
 <div align="center">
