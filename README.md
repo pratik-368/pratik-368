@@ -118,7 +118,6 @@ A productivity app that turns getting things done into a competitive battle agai
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-368&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -132,6 +131,18 @@ A productivity app that turns getting things done into a competitive battle agai
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-368&theme=github-compact&hide_border=true"/>
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik-368/pratik-368/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik-368/pratik-368/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/pratik-368/pratik-368/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+> ℹ️ This needs the **Platane/snk** GitHub Action set up in your `pratik-368` repo (the snake.yml workflow we set up earlier) to generate the SVGs on the `output` branch.
 
 ## 💬 Random Wisdom (refreshes on every profile visit)
 
