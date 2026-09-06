@@ -117,8 +117,8 @@ A productivity app that turns getting things done into a competitive battle agai
 ## 📊 The Receipts
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-368&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-368&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -126,11 +126,11 @@ A productivity app that turns getting things done into a competitive battle agai
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratik-368&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratik-368&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-368&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-368&theme=github-compact&hide_border=true"/>
 </div>
 
 ## 💬 Random Wisdom (refreshes on every profile visit)
