@@ -117,7 +117,7 @@ A productivity app that turns getting things done into a competitive battle agai
 ## 📊 The Receipts
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=pratik-368&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -125,7 +125,7 @@ A productivity app that turns getting things done into a competitive battle agai
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratik-368&theme=onedark&no-frame=true&row=1&column=6"/>
+<img src="https://trophy.ryglcloud.net/?username=pratik-368&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
 <div align="center">
